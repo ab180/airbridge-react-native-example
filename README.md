@@ -3,11 +3,11 @@
 ## Introduction
 This document introduces best practices for integrating the **Airbridge react native SDK** using a eaxmple app. It also provides examples of how to implement and test various methods.
 
-**v4-example**
-- introduces best practices for integrating the  **Airbridge react native SDK v4**
+**v4-mmp-plan-example**
+- This guide introduces best practices for integrating **Airbridge React Native SDK v4** in the Airbridge **MMP Plan** environment.
 
-**v2-example**
-- **Airbridge react native SDK v2** examples will be coming later.
+**v4-deeplink-plan-example**
+- This guide introduces best practices for integrating **Airbridge React Native SDK v4** in the Airbridge **Deeplink Plan** environment.
 
 ## Link
 [Developer Guide](https://help.airbridge.io/en/developers/react-native-sdk-v4)

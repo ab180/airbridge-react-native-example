@@ -1,0 +1,8 @@
+{
+  "sessionTimeoutSeconds": 120,
+  "autoStartTrackingEnabled": true,
+  "userInfoHashEnabled": true,
+  "trackAirbridgeLinkOnly": false,
+  "trackingAuthorizeTimeoutSeconds": 15,
+  "logLevel": "debug"
+}
