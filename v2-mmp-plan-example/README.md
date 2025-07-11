@@ -1,4 +1,4 @@
-# Airbridge React Native v4 MMP Plan Example
+# Airbridge React Native v2 MMP Plan Example
 
 ## Getting Started
 
@@ -49,7 +49,7 @@ Click `Send Event` button to send event
 Event information sent from the Airbridge SDK should be seen in the "Airbridge dashboard → `Raw Data` → `App Real-time Log`" tab.
 
 ### Deeplink settings
-To set up a deep link, refer to the [Set up deep linking](https://help.airbridge.io/en/developers/react-native-sdk-v4#set-up-deep-linking) link
+To set up a deep link, refer to the [Deep Link Setup](https://help.airbridge.io/en/developers/react-native-sdk#deep-link-setup) link
 
 ### Deeplink test
 You can test deep links using the following two methods:
